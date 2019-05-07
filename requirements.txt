@@ -1,5 +1,5 @@
 Django==2.2.1
--e git+git@github.com:django-debug-toolbar/django-debug-toolbar.git@b650a33bb02651903540d726704a9143c73eda0a#egg=django_debug_toolbar
+-e git+https://github.com/jazzband/django-debug-toolbar.git@b650a33bb02651903540d726704a9143c73eda0a#egg=django_debug_toolbar
 Pympler==0.7
 pytz==2019.1
 sqlparse==0.3.0
